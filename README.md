@@ -1,4 +1,4 @@
-<img  width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3498db&height=120&section=header"/>
+<img  width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6D8D3D&height=120&section=header"/>
 
 ## Seven Gardens 🌱
 
@@ -52,9 +52,9 @@ Seven_Gardens
 ````
 ## Tecnologias 🔧
 
-🌐 PHP
-🐬 MySQL
-🛠️ XAMPP
+- 🌐 PHP
+- 🐬 MySQL
+- 🛠️ XAMPP
 
 ## Instalação 🛠
 
@@ -124,4 +124,4 @@ Se desejar contribuir com o projeto, siga os passos abaixo:
 ## Licença
 
 © *Seven Gardens*. 
-<img  width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3498db&height=120&section=footer"/>
+<img  width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6D8D3D&height=120&section=footer"/>
