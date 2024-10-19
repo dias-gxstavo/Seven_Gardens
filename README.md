@@ -123,5 +123,5 @@ Se desejar contribuir com o projeto, siga os passos abaixo:
 
 ## Licença
 
-© *Seven Gardens*. 
+© *Seven Gardens* 🌸. 
 <img  width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6D8D3D&height=120&section=footer"/>
