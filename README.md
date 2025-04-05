@@ -89,7 +89,7 @@ Mova a pasta do projeto seven-gardens para a pasta htdocs do XAMPP. Essa pasta n
 
 Abra seu navegador e digite a URL:
 
-- http://localhost/seven-gardens/
+- [http://localhost/seven-gardens/](http://localhost/Seven_Gardens/)
 
 4. Configuração do Banco de Dados:
 
