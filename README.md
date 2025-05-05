@@ -73,7 +73,7 @@ Seven_Gardens
    ```
    cd Front-end
    ```
-## Execussão do Projeto
+## Execução do Projeto
 
 1. Inicie o Servidor Apache e MySQL:
 
