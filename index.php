@@ -22,7 +22,7 @@ $isUserMasterOrColaborador = isset($_SESSION['usuario_tipo']) && in_array($_SESS
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Seven Gardens</title>
   <link rel="stylesheet" href="<?php echo base_url('Front-end/css/header.css'); ?>">
-  <link rel="shortcut icon" href="<?php echo base_url('Front-end/img/logoatual.svg'); ?>" type="image/x-icon" />
+  <link rel="shortcut icon" href="<?php echo s3_image_url('img/logoatual.svg'); ?>" type="image/x-icon" />
   <link rel="stylesheet" href="<?php echo base_url('Front-end/css/style.css'); ?>">
   <link rel="stylesheet" href="<?php echo base_url('Front-end/css/Card-produtos.css'); ?>">
   <link rel="stylesheet" href="<?php echo base_url('Front-end/css/modalEstilos.css'); ?>">
@@ -38,13 +38,13 @@ $isUserMasterOrColaborador = isset($_SESSION['usuario_tipo']) && in_array($_SESS
   <div class="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="<?php echo base_url('Front-end/img/banner1.svg'); ?>" alt="Imagem 1">
+        <img src="<?php echo s3_image_url('img/banner1.svg'); ?>" alt="Imagem 1">
       </div>
       <div class="carousel-item">
-        <img src="<?php echo base_url('Front-end/img/banner2.svg'); ?>" alt="Imagem 2">
+        <img src="<?php echo s3_image_url('img/banner2.svg'); ?>" alt="Imagem 2">
       </div>
       <div class="carousel-item">
-        <img src="<?php echo base_url('Front-end/img/banner3.svg'); ?>" alt="Imagem 3">
+        <img src="<?php echo s3_image_url('img/banner3.svg'); ?>" alt="Imagem 3">
       </div>
     </div>
     <button class="carousel-prev" onclick="prevSlide()"></button>
@@ -103,8 +103,8 @@ $isUserMasterOrColaborador = isset($_SESSION['usuario_tipo']) && in_array($_SESS
     <div id="other-things">
       <i class="fas fa-sun" id="light-mode-toggle"></i>
       <i class="fas fa-moon" id="dark-mode-toggle"></i>
-      <img class="img_letra" src="<?php echo base_url('Front-end/img/aumentartext_1.svg'); ?>" alt="" srcset="" id="increase-font">
-      <img class="img_letra" src="<?php echo base_url('Front-end/img/diminuirtext_1.svg'); ?>" alt="" srcset="" id="decrease-font">
+      <img class="img_letra" src="<?php echo s3_image_url('img/aumentartext_1.svg'); ?>" alt="" srcset="" id="increase-font">
+      <img class="img_letra" src="<?php echo s3_image_url('img/diminuirtext_1.svg'); ?>" alt="" srcset="" id="decrease-font">
     </div>
   </section>
   <!--FIM DA ACESSIBILIDADES -->
